@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Money Management</string>
+    <string name="action_transaction">Sổ giao dịch</string>
+    <string name="action_report">Báo cáo</string>
+    <string name="action_note">Ghi chú</string>
+    <string name="action_account">Tài khoản</string>
+</resources>
